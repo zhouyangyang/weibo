@@ -1,0 +1,126 @@
+body{
+	font-family: "微软雅黑";
+	background: rgb(96, 155, 217);
+}
+@font-face{
+	font-family: "demo";
+	src:url("../font/iconfont.ttf");
+}
+#dakuai{
+	width: 800px;
+	height: 1000px;
+	border: 1px solid #555555;
+	position: absolute;
+	top: 300px;
+	left: 200px;
+	background:#F7F7F7;
+	border-radius: 6px;
+}
+.biao{
+	width: 100px;
+	height: 100px;
+
+}
+.biao1{
+margin-left: 250px;
+    margin-top: -35px;
+    width: 110px;
+    height: 110px;
+}
+.xiaokuai{
+	width: 700px;
+	height: 200px;
+	border: 1px solid darkgrey;
+	margin:20 auto;
+	position: relative;
+   border-radius: 6px;
+}
+#fa{
+	width: 700px;
+	height: 200px;
+	border: 1px solid rgb(44, 192, 90);
+	position: absolute;
+	top: 50px;
+	left: 250px;
+	color: red;
+	outline: none;
+}
+#zishu{
+	width: 200px;
+	height: 30px;
+	/*border: 1px solid black;*/
+	color: rgb(201, 67, 16);
+	position:absolute;
+	top: 16px;
+	right: 355px; 
+
+}
+#zishu1{
+	color:black;
+	font-weight: bolder;
+}
+#zishu2{
+
+     display: inline-block;
+     color: rgb(201, 67, 16);	
+}
+#anniu{
+	width: 45px;
+	height: 24px;
+border: 1px solid #7C7C7C;
+    border-radius: 4px;
+    background: rgb(165, 165, 165);
+	color:white;
+	line-height:24px;
+	text-align: center;
+	font-size: 18px;
+	position: absolute;
+	top: 255px;
+	left: 900px;
+
+}
+.zan{
+	width: 40px;
+    height: 25px;
+    color: #878787;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    font-family: "demo";
+    font-size: 24px;
+    border-radius: 8px;
+    line-height: 25px;
+}
+.sp{
+	color: black;
+	float: right;
+}
+.kuai{
+	width: 500px;
+    height: 150px;
+    margin: 10px auto;
+    background: white;
+    border: 1px solid #868686;
+    margin-top: 20px;
+   margin-left: 10px;
+}
+.aa{
+   float: left;
+}
+.da{
+	font-size: 10px;
+}
+.xiaoxiao{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	margin-left: 10px;
+	margin-top: 40px;
+	float: left;
+}
+.pic{
+	width: 80px;
+    height: 80px;
+    border: 1px solid #999999;
+    border-radius: 50%;
+}
